@@ -20,6 +20,7 @@ first.
   - [Politics](#politics)
   - [Biographies, Autobiographies \& Memoirs](#biographies-autobiographies--memoirs)
   - [Baathist Prisons](#baathist-prisons)
+- [Archives](#archives)
 - [Movies](#movies)
 - [Media](#media)
 - [Open-Source Intelligence](#open-source-intelligence)
@@ -67,6 +68,13 @@ first.
 - 📚 [من الحزب إلى السجن 1948-1994 - ضافي أبو فاضل (2007)](https://www.goodreads.com/book/show/18081406)
 - 📚 [بالخلاص، يا شباب! 16 عاماً في السجون السورية - ياسين الحاج صالح (2012)](https://www.goodreads.com/book/show/15729139)
 - 📚 [ناج من المقصلة: ثمانية أعوام في سجن تدمر - محمد برّو (2020)](https://www.goodreads.com/book/show/55853433)
+
+## Archives
+
+- 🗃️ [Syiran Modern History](https://syrmh.com/)
+- 🗃️ [Syrian Memory](https://syrianmemory.org/)
+- 🗃️ [Syrian Prints Archive](https://en.syrianprints.org/)
+- 🗃️ [Tareekh Souria](https://tareekhsouria.com)
 
 ## Movies
 
