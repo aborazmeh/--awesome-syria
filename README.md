@@ -69,6 +69,7 @@ first.
 
 ## Movies
 
+- 🎬 [The White Helmets (2016)](https://www.imdb.com/title/tt6073176/)
 - 🎬 [A Flood in Baath Country (2005)](https://www.imdb.com/title/tt0455950/)
 
 ## Media
@@ -84,4 +85,5 @@ icon](images/youtube.svg) [Eekad](https://www.youtube.com/@EekadFacts)
 
 ## Activists & Journalists
 
+- 🌐 [White Helmets](https://whitehelmets.org) (Syrian Civil Defence)
 - 𝕏 [Qutayba Yaseen](https://twitter.com/k7ybnd99)
