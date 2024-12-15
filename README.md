@@ -31,6 +31,7 @@ first.
 - 📄 [Amnesty International](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/syria/)
 - 📄 [Syrian Network for Human Rights](https://snhr.org/)
 - 📄 [The Syrian Human Rights Committe](https://www.shrc.org/)
+- 📄 [The U.S. Department of State Reports on Syria](https://www.state.gov/report/custom/709c037e97/)
 
 ### Civilian Casualties & Detainees
 
