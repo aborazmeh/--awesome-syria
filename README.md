@@ -48,6 +48,7 @@ first.
 - 📚 [The Game of Nations: The Amorality of Power Politics - Miles Copeland Jr. (1969)](https://www.goodreads.com/book/show/911059)
 - 📚 [سورية، الدولة المتوحشة - ميشيل سورا (1989)](https://www.goodreads.com/book/show/115646055)
 - 📚 [Syria's Peasantry, the Descendants of Its Lesser Rural Notables, and Their Politics - Hanna Batatu (1999)](https://www.goodreads.com/book/show/31152975)
+- 📚 [Business Networks in Syria: The Political Economy of Authoritarian Resilience - Bassam Haddad (2011)](https://www.goodreads.com/book/show/12676030)
 - 📚 [المسألة الطائفية ومشكلة الأقليات - برهان غليون (2012)](https://www.goodreads.com/book/show/13122960)
 - 📚 [Assad or We Burn the Country: How One Family's Lust for Power Destroyed Syria - Sam Dagher (2019)](https://www.goodreads.com/book/show/51286268)
 - 📚 [من الأمة إلى الطائفة: سوريا في حكم البعث والعسكر - ميشيل كيلو (2020)](https://www.goodreads.com/book/show/57810235)
