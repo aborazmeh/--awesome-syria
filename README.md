@@ -84,6 +84,8 @@ first.
 ## Media
 
 - 🌐 [Al Jazeera](https://www.aljazeera.com)
+- 🌐 [Enab Baladi](https://english.enabbaladi.net)
+- 🌐 [Shaam News Network](https://shaam.org)
 - 🌐 [Syria TV](https://www.syria.tv/)
 - 🌐 [Zaman Alwsl](https://en.zamanalwsl.net/)
 
