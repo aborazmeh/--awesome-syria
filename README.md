@@ -77,6 +77,7 @@ icon](images/android.svg) [Civil Register – Post-2011 Deaths](https://github.c
 - 🗃️ [Syiran Modern History](https://syrmh.com/)
 - 🗃️ [Syrian Memory](https://syrianmemory.org/)
 - 🗃️ [Syrian Prints Archive](https://en.syrianprints.org/)
+- 🗃️ [Syrian Revolution Archive](https://linktr.ee/syrian.revolution.archive)
 - 🗃️ [Tareekh Souria](https://tareekhsouria.com)
 
 ## Movies
