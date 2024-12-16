@@ -20,6 +20,7 @@ first.
   - [Politics](#politics)
   - [Biographies, Autobiographies \& Memoirs](#biographies-autobiographies--memoirs)
   - [Baathist Prisons](#baathist-prisons)
+  - [Art \& Culture](#art--culture)
 - [Archives](#archives)
 - [Movies](#movies)
 - [Media](#media)
@@ -70,6 +71,11 @@ icon](images/android.svg) [Civil Register – Post-2011 Deaths](https://github.c
 - 📚 [من الحزب إلى السجن 1948-1994 - ضافي أبو فاضل (2007)](https://www.goodreads.com/book/show/18081406)
 - 📚 [بالخلاص، يا شباب! 16 عاماً في السجون السورية - ياسين الحاج صالح (2012)](https://www.goodreads.com/book/show/15729139)
 - 📚 [ناج من المقصلة: ثمانية أعوام في سجن تدمر - محمد برّو (2020)](https://www.goodreads.com/book/show/55853433)
+
+### Art & Culture
+
+- 📚 [Music in Syria: Notable Figures and History - Samim Al-Sharif (2011)](https://www.goodreads.com/book/show/61830598)
+- 📚 [Encyclopedia of Syrian Colloquial: A Linguistic Notebook on Eloquence, Etymology, Modernization and Borrowing - Yassin Abdel Rahim (2012)](https://www.goodreads.com/series/348526)
 
 ## Archives
 
