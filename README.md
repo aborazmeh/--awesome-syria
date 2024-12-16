@@ -71,6 +71,7 @@ first.
 
 ## Archives
 
+- 🗃️ [Damapedia](https://damapedia.com/)
 - 🗃️ [Syiran Modern History](https://syrmh.com/)
 - 🗃️ [Syrian Memory](https://syrianmemory.org/)
 - 🗃️ [Syrian Prints Archive](https://en.syrianprints.org/)
