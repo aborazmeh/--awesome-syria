@@ -37,6 +37,8 @@ first.
 ### Civilian Casualties & Detainees
 
 - 📄 [2014 Syrian Detainee Report](https://leaks.zamanalwsl.net/tortures.php) (Caesar Report)
+- ![Android
+icon](images/android.svg) [Civil Register – Post-2011 Deaths](https://github.com/aborazmeh/awesome-syria/raw/main/files/post-2011%20deaths.apk)
 
 ## Books
 
